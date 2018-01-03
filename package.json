@@ -2,7 +2,7 @@
   "name": "react-walk-tree",
   "version": "1.0.0",
   "description": "Asynchronously walk a React element tree",
-  "main": "./lib/index.js",
+  "main": "./lib/walk.js",
   "repository": "https://github.com/SamyPesse/react-walk-tree",
   "author": "Samy Pessé <samypesse@gmail.com>",
   "license": "MIT",

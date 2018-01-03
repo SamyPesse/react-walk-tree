@@ -1,6 +1,6 @@
 {
   "name": "react-walk-tree",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Asynchronously walk a React element tree",
   "main": "./lib/index.js",
   "repository": "https://github.com/SamyPesse/react-walk-tree",

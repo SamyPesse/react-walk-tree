@@ -1,5 +1,9 @@
 # `react-walk-tree`
 
+[![npm](https://img.shields.io/npm/v/react-walk-tree.svg?style=flat-square)](http://npm.im/react-tree-walker)
+[![MIT License](https://img.shields.io/npm/l/react-walk-tree.svg?style=flat-square)](http://opensource.org/licenses/MIT)
+[![Travis](https://img.shields.io/travis/SamyPesse/react-walk-tree.svg?style=flat-square)](https://travis-ci.org/SamyPesse/react-walk-tree)
+
 Asynchronously walk a React element tree.
 
 This module is based on [`react-tree-walker`](https://github.com/ctrlplusb/react-tree-walker) and the Apollo's implementation ([`react-apollo`](https://github.com/apollographql/react-apollo/blob/master/src/getDataFromTree.ts)).

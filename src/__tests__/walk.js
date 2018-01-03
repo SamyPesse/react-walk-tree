@@ -4,6 +4,8 @@ import walkTree, { VISIT_REWALK, VISIT_CONTINUE } from '../walk';
 
 class Foo extends React.Component<*, *> {
     props: {
+        rest: number,
+        id: number,
         onReady: () => *
     };
 
